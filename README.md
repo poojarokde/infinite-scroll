@@ -1,5 +1,6 @@
 # infinite-scroll
-Application which loads images infinitely when a certain scroll position is reached
+Application which loads images infinitely when a certain scroll position is reached.
+
 This application covers below concepts 
 1. Async , await
 2. window offset values
